@@ -1,0 +1,15 @@
+<svg width="860" height="52" viewBox="0 0 860 52" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .t { font-family: 'SF Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 22px; font-weight: 600; }
+    .prompt { fill: #9ece6a; }
+    .path { fill: #7aa2f7; }
+    .cmd { fill: #c0caf5; }
+    .cursor { fill: #7aa2f7; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    .cursor { animation: blink 1.1s step-end infinite; }
+  </style>
+  <text x="430" y="34" text-anchor="middle" class="t">
+    <tspan class="path">jen-guzman</tspan><tspan class="cmd"> ~ </tspan><tspan class="prompt">$</tspan><tspan class="cmd"> ./links.sh</tspan>
+  </text>
+  <rect class="cursor" x="606" y="16" width="12" height="24"/>
+</svg>

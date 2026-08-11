@@ -1,0 +1,56 @@
+<svg width="480" height="380" viewBox="0 0 480 380" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .t { font-family: 'SF Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 13px; }
+    .title { font-size: 11px; fill: #565f89; }
+    .user { fill: #7aa2f7; font-weight: 700; font-size: 15px; }
+    .key { fill: #7aa2f7; font-weight: 600; }
+    .val { fill: #c0caf5; }
+    .dim { fill: #565f89; }
+    .green { fill: #9ece6a; font-weight: 600; }
+    .pink { fill: #f7768e; }
+    .yellow { fill: #e0af68; }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="478" height="378" rx="10" fill="#0b0e14" stroke="#1f2937" stroke-width="1.5"/>
+  <!-- title bar -->
+  <line x1="1" y1="36" x2="479" y2="36" stroke="#1f2937" stroke-width="1"/>
+  <circle cx="22" cy="19" r="6" fill="#f7768e"/>
+  <circle cx="42" cy="19" r="6" fill="#e0af68"/>
+  <circle cx="62" cy="19" r="6" fill="#9ece6a"/>
+  <text x="240" y="23" text-anchor="middle" class="t title">jen@data-analytics: ~/whoami</text>
+
+  <!-- content -->
+  <text x="28" y="66" class="t user">jen-guzman</text>
+  <text x="28" y="82" class="t dim">──────────────────────────────────</text>
+
+  <text x="28" y="106" class="t key">Role</text>
+  <text x="130" y="106" class="t val">Tech Lead · Data Analytics</text>
+
+  <text x="28" y="128" class="t key">Focus</text>
+  <text x="130" y="128" class="t val">Data platforms · SQL · BigQuery</text>
+
+  <text x="28" y="150" class="t key">Creator</text>
+  <text x="130" y="150" class="t val">Data + leadership content</text>
+
+  <text x="28" y="172" class="t key">Uptime</text>
+  <text x="130" y="172" class="t val">shipping dashboards since forever</text>
+
+  <text x="28" y="202" class="t green"># stack</text>
+
+  <text x="28" y="224" class="t key">Data</text>
+  <text x="130" y="224" class="t val">SQL · BigQuery · Data Warehousing</text>
+
+  <text x="28" y="246" class="t key">Code</text>
+  <text x="130" y="246" class="t val">Python · FastAPI · React</text>
+
+  <text x="28" y="268" class="t key">AI</text>
+  <text x="130" y="268" class="t val">Claude Code · MCP</text>
+
+  <text x="28" y="290" class="t key">Video</text>
+  <text x="130" y="290" class="t val">CapCut · ffmpeg · Playwright</text>
+
+  <text x="28" y="320" class="t green"># highlights</text>
+  <text x="28" y="342" class="t val"><tspan class="pink">›</tspan> Leading a data analytics team</text>
+  <text x="28" y="362" class="t val"><tspan class="pink">›</tspan> Teaching data concepts on TikTok</text>
+</svg>
