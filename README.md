@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="center" width="44%">
-  <img src="assets/portrait-v2.png" alt="portrait" width="340"/>
+  <img src="assets/query-terminal.svg" alt="SQL terminal" width="420"/>
 </td>
 <td align="center" width="56%">
   <img src="assets/terminal-card-v2.svg" alt="jen-guzman · info" width="480"/>
