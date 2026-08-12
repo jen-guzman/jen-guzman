@@ -33,8 +33,8 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jen-guzman&show_icons=true&bg_color=0b0e14&title_color=7aa2f7&text_color=c0caf5&icon_color=9ece6a&border_color=1f2937&border_radius=10&rank_icon=github" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen-guzman&layout=compact&bg_color=0b0e14&title_color=7aa2f7&text_color=c0caf5&border_color=1f2937&border_radius=10&langs_count=6" alt="Top languages" height="170"/>
+<img src="https://github-readme-stats.zohan.tech/api?username=jen-guzman&show_icons=true&bg_color=0b0e14&title_color=7aa2f7&text_color=c0caf5&icon_color=9ece6a&border_color=1f2937&border_radius=10&rank_icon=github" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=jen-guzman&layout=compact&bg_color=0b0e14&title_color=7aa2f7&text_color=c0caf5&border_color=1f2937&border_radius=10&langs_count=6" alt="Top languages" height="170"/>
 
 <br/><br/>
 
