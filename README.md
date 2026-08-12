@@ -5,10 +5,10 @@
 <table>
 <tr>
 <td align="center" width="44%">
-  <img src="assets/portrait.png" alt="portrait" width="340"/>
+  <img src="assets/portrait-v2.png" alt="portrait" width="340"/>
 </td>
 <td align="center" width="56%">
-  <img src="assets/terminal-card.svg" alt="jen-guzman · info" width="480"/>
+  <img src="assets/terminal-card-v2.svg" alt="jen-guzman · info" width="480"/>
 </td>
 </tr>
 </table>
