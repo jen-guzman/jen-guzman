@@ -31,8 +31,4 @@
   <img src="https://img.shields.io/badge/EMAIL-1f2937?style=for-the-badge&logo=gmail&logoColor=e0af68" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=jen-guzman&background=0b0e14&border=1f2937&stroke=1f2937&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89&border_radius=10" alt="Streak" height="170"/>
-
 </div>
