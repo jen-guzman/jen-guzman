@@ -18,7 +18,7 @@
 <img src="assets/header-links.svg" alt="jen-guzman ~ $ ./links.sh" width="860"/>
 
 <a href="https://jenguzman.com/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-7aa2f7?style=for-the-badge&logo=safari&logoColor=0b0e14" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/WEBSITE-7aa2f7?style=for-the-badge&logo=safari&logoColor=0b0e14" alt="Website"/>
 </a>
 <a href="https://www.tiktok.com/@jen..guzman">
   <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
